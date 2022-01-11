@@ -6,7 +6,7 @@ layout: default
 
 Welcome to the B2C Solution Architect Program Resourcing Page!  
 
-If you have any questions or comments please feel free to reach out to the Program within the Partner Community in the B2C Solution Architect [here](https://partners.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A000000LoWxSAK). 
+If you have any questions or comments please feel free to reach out to the Program within the Partner Community in the B2C Solution Architect [here](https://partners.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94V000000DR36). 
 
 Here are some resources if you would like to learn more:
 * [Architect Success Program: Curricula Made for Architects by Architects To Build Multi-Cloud Expertise](https://go.salesforce-partners.com/blog/architect-success-program)
