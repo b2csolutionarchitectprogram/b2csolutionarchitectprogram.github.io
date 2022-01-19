@@ -10,15 +10,14 @@ If you have any questions or comments please feel free to reach out to the Progr
 
 Here are some resources if you would like to learn more:
 * [Architect Success Program: Curricula Made for Architects by Architects To Build Multi-Cloud Expertise](https://go.salesforce-partners.com/blog/architect-success-program)
-* [T-Ruth Mountain for B2C Solution Architects Is Ready For The Full Climb](https://go.salesforce-partners.com/t-ruth-mountain-for-B2C-solution-architects)
-* [A New Way to Climb T-Ruth Mountain: B2C Solution Architect Learning Expeditions](https://go.salesforce-partners.com/new-way-b2b-learning-expeditions)
+* [Check Out New Additions to the B2C Solution Architect PLC Curriculum](https://1.salesforce-partners.com/new-additions-b2c-solution)
 * [Who is a Solution Architect: Breadth versus Depth](https://1.salesforce-partners.com/who-is-a-solution-architect)
 * [B2C Solution Architect Certification Guide and Tips](https://www.salesforceben.com/b2c-solution-architect-certification-guide-tips/)
 * [B2C Solution Architect Certification: Guiding Companies Through Digital Transformation](https://medium.com/trailhead/salesforce-b2c-solution-architect-certification-39af4bef3d7c)
 
 # Courses
 
-![image](https://storage.pardot.com/349921/1605718119DdwqRz53/TruthMountain.png)
+![image](https://storage.pardot.com/902521/1638387008jmMVq2eb/Screen_Shot_2021_12_01_at_2.29.21_PM.png)
 [Click Here For The B2C Solution Architect Curriculum in PLC](http://sfdc.co/B2CSolutionArchitectCurriculum-PLC)
 
 # Videos
