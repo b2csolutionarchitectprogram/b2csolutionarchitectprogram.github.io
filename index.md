@@ -15,34 +15,10 @@ Here are some resources if you would like to learn more:
 * [B2C Solution Architect Certification Guide and Tips](https://www.salesforceben.com/b2c-solution-architect-certification-guide-tips/)
 * [B2C Solution Architect Certification: Guiding Companies Through Digital Transformation](https://medium.com/trailhead/salesforce-b2c-solution-architect-certification-39af4bef3d7c)
 
-# Courses
 
-![image](https://storage.pardot.com/902521/1638387008jmMVq2eb/Screen_Shot_2021_12_01_at_2.29.21_PM.png)
-[Click Here For The B2C Solution Architect Curriculum in PLC](http://sfdc.co/B2CSolutionArchitectCurriculum-PLC)
-
-# Videos
-
-To access all videos related to Labs, Courses and Office Hours you can find it [here](https://b2csa.hubs.vidyard.com/).
-
-You can find additional videos here around the Solution Architect Program:
-* [Complex B2B Implementations for Solution Architects](https://trailhead.salesforce.com/live/videos/a2r3k000001vDBo/complex-b2b-implementations-for-solution-architects)
-* [Multi-Cloud B2B Implementations for Solution Architects](https://trailhead.salesforce.com/live/videos/a2r3k000001vDBj/multi-cloud-b2b-implementations-for-solution-architects)
-* [B2B and B2C Architect Careers and Scenarios](https://trailhead.salesforce.com/live/videos/a2r3k000001vD07/b2b-and-b2c-architect-careers-and-scenarios)
-* [Architect Success Program Overview](https://trailhead.salesforce.com/live/videos/a2r3k000001vCqv/architect-success-program-overview)
-
-# Learning Labs
-
-We'll make Learning Labs announcement here.
-
-# Office Hours
-
-Coming Soon! The ability to register for office hours, submit questions and watch previous episodes will be included here
-
-# [Certification](https://trailhead.salesforce.com/en/credentials/b2csolutionarchitect)
-
-![image](https://miro.medium.com/max/1400/1*THYc_X-xMYJXWmY7xsXfrA.png)
 
 ## Other than Partner Learning Camp here are direct links to available resources within Trailhead
+
 * [B2C & B2B Solution Architect Job Comparison: Quick Look](https://trailhead.salesforce.com/content/learn/modules/b2c-b2b-solution-architect-comparison-quick-look)
 * [Salesforce Architect Credential Overview](https://trailhead.salesforce.com/credentials/architectoverview)
 * [Prepare for the Salesforce B2C Solution Architect Credential](https://trailhead.salesforce.com/en/users/teamtrailhead/trailmixes/prepare-for-the-salesforce-b-2-c-solution-architect-credential)
