@@ -4,8 +4,8 @@ main:
     url: /videos/
   - title: "Courses"
     url: /courses/
-  - title: "Blog"
-    url: /blog/
+  - title: "Labs"
+    url: /labs/
   - title: "Get Certified"
     url: /certification/
   - title: "About Us"
