@@ -13,11 +13,10 @@ Here are some resources if you would like to learn more:
 * [Check Out New Additions to the B2C Solution Architect PLC Curriculum](https://1.salesforce-partners.com/new-additions-b2c-solution)
 * [Who is a Solution Architect: Breadth versus Depth](https://1.salesforce-partners.com/who-is-a-solution-architect)
 * [B2C Solution Architect Certification Guide and Tips](https://www.salesforceben.com/b2c-solution-architect-certification-guide-tips/)
-* [B2C Solution Architect Certification: Guiding Companies Through Digital Transformation](https://medium.com/trailhead/salesforce-b2c-solution-architect-certification-39af4bef3d7c)
 
 
 
-## Other than Partner Learning Camp here are direct links to available resources within Trailhead
+## Other than Partner Learning Camp, _here are direct links to available resources within Trailhead_
 
 * [B2C & B2B Solution Architect Job Comparison: Quick Look](https://trailhead.salesforce.com/content/learn/modules/b2c-b2b-solution-architect-comparison-quick-look)
 * [Salesforce Architect Credential Overview](https://trailhead.salesforce.com/credentials/architectoverview)
