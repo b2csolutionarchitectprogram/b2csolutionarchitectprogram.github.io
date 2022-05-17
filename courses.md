@@ -7,7 +7,7 @@ layout: posts
 # T-Ruth Mountain
 -----------------
 
-![image](https://storage.pardot.com/902521/1638387008jmMVq2eb/Screen_Shot_2021_12_01_at_2.29.21_PM.png)
+![image](./assets/img/B2C_Learning_Journey.png)
 [Click Here For The B2C Solution Architect Curriculum in PLC](http://sfdc.co/B2CSolutionArchitectCurriculum-PLC)
 
 
